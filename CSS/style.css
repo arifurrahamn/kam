@@ -1,0 +1,47 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+body div{
+    background-color: red;
+    width: 50%;
+    margin: auto;
+} 
+p{
+    color: red
+}
+div p b {
+    color: green
+}
+input{
+    padding: 10px;
+    outline: none;
+
+}
+input :focus{
+    background-color: gray;
+}
+input::placeholder{
+    color:red;
+    font-size: 20px;
+}
+button{
+    padding: 5px-10px;
+    margin: 10px;
+    transition: ease-in-out 2s;
+}
+button:hover{
+    background-color: aqua;
+    border-radius: 5px;
+
+}
+
+
+    ;
+
+    }
+
